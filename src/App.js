@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React DEATH
+          Learn React DEATH and REBIRTH
         </a>
       </header>
     </div>
